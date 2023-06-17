@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @labagarre
+- 👋 Hi, I’m @Hersi
 - 👀 I’m interested in Web Dev.
 - 🌱 I’m currently learning JS, PHP and Python.
 - 💞️ I’m looking to collaborate on any project related to Web Dev.
